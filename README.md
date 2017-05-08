@@ -1,0 +1,1 @@
+My day to day progress during my 3 month GSoC internship under Kivy organisation.
