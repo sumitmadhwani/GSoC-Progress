@@ -29,4 +29,4 @@ Date | Weekday | Day | Tasks Performed
 26/05/2017 | Friday | 19 | a) Research on Sharing feature for Android, iOS, OS X, Windows <br> b) Facade for Sharing API
 27/05/2017 | Saturday | 20 | - 
 28/05/2017 | Sunday | 21 | a) Switch this repo to markdown <br> b) Reearch on brightness API for Android, iOS, Windows, OS X, Linux
- 
+29/05/2017 | Monday | 22 | Facade for brightness API 
