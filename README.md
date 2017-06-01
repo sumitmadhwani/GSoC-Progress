@@ -32,3 +32,4 @@ Date | Weekday | Day | Tasks Performed
 29/05/2017 | Monday | 22 | Facade for brightness API 
 30/05/2017 | Tuesday | 23 | Research on Status Bar API
 31/05/2017 | Wednesday | 24 | a) Research on image sharing method for sharing API <br> b) Facade for status bar
+01/06/2017 | Thursday | 25 | Android Implementation of Fingerprint Scanner
