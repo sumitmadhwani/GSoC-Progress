@@ -37,3 +37,4 @@ Date | Weekday | Day | Tasks Performed
 03/06/2017 | Saturday | 27 | Android Implementation of FPS (contd.)
 04/06/2017 | Sunday | 28 | a) Research on fingerprint enrollment for Fingerprint Scanner <br> b) Finisher android code for fingerprint scanner, need some bug fixes
 05/06/2017 | Monday | 29 | -
+06/06/2017 | Tuesday | 30 | Fix some compilation issues for fingerprint scanner
