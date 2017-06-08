@@ -38,3 +38,4 @@ Date | Weekday | Day | Tasks Performed
 04/06/2017 | Sunday | 28 | a) Research on fingerprint enrollment for Fingerprint Scanner <br> b) Finisher android code for fingerprint scanner, need some bug fixes
 05/06/2017 | Monday | 29 | -
 06/06/2017 | Tuesday | 30 | Fix some compilation issues for fingerprint scanner
+07/06/2017 | Wednesday | 31 | a) Update gyroscope API <br> b) Update compass API to add method for uncalibrated values
