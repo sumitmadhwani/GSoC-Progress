@@ -39,3 +39,4 @@ Date | Weekday | Day | Tasks Performed
 05/06/2017 | Monday | 29 | -
 06/06/2017 | Tuesday | 30 | Fix some compilation issues for fingerprint scanner
 07/06/2017 | Wednesday | 31 | a) Update gyroscope API <br> b) Update compass API to add method for uncalibrated values
+08/06/2017 | Thursday | 32 | Started android implementation of Storage Path API
