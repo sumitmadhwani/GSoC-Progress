@@ -41,3 +41,4 @@ Date | Weekday | Day | Tasks Performed
 07/06/2017 | Wednesday | 31 | a) Update gyroscope API <br> b) Update compass API to add method for uncalibrated values
 08/06/2017 | Thursday | 32 | Started android implementation of Storage Path API
 09/06/2017 | Friday | 33 | Android implementation of Storage Path (contd.)
+10/06/2017 | Saturday | 34 | Example for storage path API
