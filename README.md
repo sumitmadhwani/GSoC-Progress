@@ -42,3 +42,4 @@ Date | Weekday | Day | Tasks Performed
 08/06/2017 | Thursday | 32 | Started android implementation of Storage Path API
 09/06/2017 | Friday | 33 | Android implementation of Storage Path (contd.)
 10/06/2017 | Saturday | 34 | Example for storage path API
+11/06/2017 | Sunday | 35 | Blog describing Community Bonding Period and first week
