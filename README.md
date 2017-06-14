@@ -44,3 +44,4 @@ Date | Weekday | Day | Tasks Performed
 10/06/2017 | Saturday | 34 | Example for storage path API
 11/06/2017 | Sunday | 35 | Blog describing Community Bonding Period and first week
 12/06/2017 | Monday | 36 | -
+13/06/2017 | Tuesday | 37 | Bug fixes re android storage path
