@@ -45,3 +45,4 @@ Date | Weekday | Day | Tasks Performed
 11/06/2017 | Sunday | 35 | Blog describing Community Bonding Period and first week
 12/06/2017 | Monday | 36 | -
 13/06/2017 | Tuesday | 37 | Bug fixes re android storage path
+14/06/2017 | Wednesday | 38 | Started Linux Implementation of Storage Path
