@@ -46,4 +46,5 @@ Date | Weekday | Day | Tasks Performed
 12/06/2017 | Monday | 36 | -
 13/06/2017 | Tuesday | 37 | Bug fixes re android storage path
 14/06/2017 | Wednesday | 38 | Started Linux Implementation of Storage Path
-15/06/2017 | Thursday | 39 | Windows Implementation of Storage Path
+15/06/2017 | Thursday | 39 | Linux Implementation of Storage Path(contd.)
+16/06/2017 | Friday | 40 | Windows Implementation of Storage Path
