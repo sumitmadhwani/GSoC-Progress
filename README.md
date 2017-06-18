@@ -49,3 +49,4 @@ Date | Weekday | Day | Tasks Performed
 15/06/2017 | Thursday | 39 | Linux Implementation of Storage Path(contd.)
 16/06/2017 | Friday | 40 | Windows Implementation of Storage Path
 17/06/2017 | Saturday | 41 | Windows Implementation of Storage Path(contd.)
+18/06/2017 | Sunday | 42 | -
