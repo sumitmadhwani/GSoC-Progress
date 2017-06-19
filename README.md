@@ -1,4 +1,4 @@
-My day to day progress during my 3 month GSoC'17 internship.
+My day to day progress during my 3 month Google Summer of Code'17 internship.
 
 Project - Plyer, a platform independent API
 
