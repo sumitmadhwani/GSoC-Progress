@@ -51,3 +51,4 @@ Date | Weekday | Day | Tasks Performed
 17/06/2017 | Saturday | 41 | Windows Implementation of Storage Path(contd.)
 18/06/2017 | Sunday | 42 | -
 19/06/2017 | Monday | 43 | OS X Implementation of Storage Path
+20/06/2017 | Tuesday | 44 | -
