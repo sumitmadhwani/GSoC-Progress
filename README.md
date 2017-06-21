@@ -52,3 +52,4 @@ Date | Weekday | Day | Tasks Performed
 18/06/2017 | Sunday | 42 | -
 19/06/2017 | Monday | 43 | OS X Implementation of Storage Path
 20/06/2017 | Tuesday | 44 | -
+21/06/2017 | Wednesday | 45 | Documentation of Pyobjus
