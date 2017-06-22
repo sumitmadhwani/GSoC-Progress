@@ -53,3 +53,4 @@ Date | Weekday | Day | Tasks Performed
 19/06/2017 | Monday | 43 | OS X Implementation of Storage Path
 20/06/2017 | Tuesday | 44 | -
 21/06/2017 | Wednesday | 45 | Documentation of Pyobjus
+22/06/2017 | Thursday | 46 | iOS implementation of storage path api
