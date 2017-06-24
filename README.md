@@ -55,3 +55,4 @@ Date | Weekday | Day | Tasks Performed
 21/06/2017 | Wednesday | 45 | Documentation of Pyobjus
 22/06/2017 | Thursday | 46 | iOS implementation of storage path api
 23/06/2017 | Friday | 47 | iOS implementation of storage path (contd.)
+24/06/2017 | Saturday | 48 | Android implementation of brightness API
