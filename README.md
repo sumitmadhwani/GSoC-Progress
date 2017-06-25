@@ -56,3 +56,5 @@ Date | Weekday | Day | Tasks Performed
 22/06/2017 | Thursday | 46 | iOS implementation of storage path api
 23/06/2017 | Friday | 47 | iOS implementation of storage path (contd.)
 24/06/2017 | Saturday | 48 | Android implementation of brightness API
+25/06/2017 | Sunday | 49 | Example for brightness API
+
