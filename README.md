@@ -59,3 +59,4 @@ Date | Weekday | Day | Tasks Performed
 25/06/2017 | Sunday | 49 | Example for brightness API
 26/06/2017 | Monday | 50 | -
 27/06/2017 | Tuesday | 51 | GSoC Blog 2 for Phase I Evaluation
+28/06/2017 | Wednesday | 52 | Android Brightness (contd.)
