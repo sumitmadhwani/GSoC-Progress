@@ -61,3 +61,4 @@ Date | Weekday | Day | Tasks Performed
 27/06/2017 | Tuesday | 51 | GSoC Blog 2 for Phase I Evaluation
 28/06/2017 | Wednesday | 52 | Android Brightness (contd.)
 29/06/2017 | Thursday | 53 | Android Brightness (contd.)
+30/06/2017 | Friday | 54 | -
