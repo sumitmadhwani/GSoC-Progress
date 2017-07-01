@@ -62,3 +62,4 @@ Date | Weekday | Day | Tasks Performed
 28/06/2017 | Wednesday | 52 | Android Brightness (contd.)
 29/06/2017 | Thursday | 53 | Android Brightness (contd.)
 30/06/2017 | Friday | 54 | -
+01/07/2017 | Saturday | 55 | iOS Brightness
