@@ -63,3 +63,4 @@ Date | Weekday | Day | Tasks Performed
 29/06/2017 | Thursday | 53 | Android Brightness (contd.)
 30/06/2017 | Friday | 54 | -
 01/07/2017 | Saturday | 55 | iOS Brightness
+02/07/2017 | Sunday | 56 | iOS Storage Path
