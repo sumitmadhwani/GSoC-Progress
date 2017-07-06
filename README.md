@@ -67,3 +67,4 @@ Date | Weekday | Day | Tasks Performed
 03/07/2017 | Monday | 57 | iOS Storage Path (contd.)
 04/07/2017 | Tuesday | 58 | iOS sensors
 05/07/2017 | Wednesday | 59 | Add handler for device motion class in bridge.m in pyobjus
+06/07/2017 | Thursday | 60 | iOS Spatial Orientation sensor
