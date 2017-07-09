@@ -70,3 +70,4 @@ Date | Weekday | Day | Tasks Performed
 06/07/2017 | Thursday | 60 | iOS Spatial Orientation sensor
 07/07/2017 | Friday | 61 | iOS Gravity Sensor
 08/07/2017 | Saturday | 62 | -
+09/07/2017 | Sunday | 63 | Fixed some issues in iOS Storage Path
