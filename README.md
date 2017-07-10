@@ -71,3 +71,4 @@ Date | Weekday | Day | Tasks Performed
 07/07/2017 | Friday | 61 | iOS Gravity Sensor
 08/07/2017 | Saturday | 62 | -
 09/07/2017 | Sunday | 63 | Fixed some issues in iOS Storage Path
+10/07/2017 | Monday | 64 | GSoC Blog Post 3
