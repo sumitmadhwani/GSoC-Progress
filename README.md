@@ -73,4 +73,4 @@ Date | Weekday | Day | Tasks Performed
 09/07/2017 | Sunday | 63 | Fixed some issues in iOS Storage Path
 10/07/2017 | Monday | 64 | GSoC Blog Post 3
 11/07/2017 | Tuesday | 65 | Add more properties to device motion handler <br> Linux Brightness
-
+12/07/2017 | Wednesday | 66 | Linux Brightness API
