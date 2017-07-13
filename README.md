@@ -72,5 +72,6 @@ Date | Weekday | Day | Tasks Performed
 08/07/2017 | Saturday | 62 | -
 09/07/2017 | Sunday | 63 | Fixed some issues in iOS Storage Path
 10/07/2017 | Monday | 64 | GSoC Blog Post 3
-11/07/2017 | Tuesday | 65 | Add more properties to device motion handler <br> Linux Brightness
+11/07/2017 | Tuesday | 65 | a) Add more properties to device motion handler <br> b) Linux Brightness
 12/07/2017 | Wednesday | 66 | Linux Brightness API
+13/07/2017 | Thursday | 67 | a) Tested and finished iOS gravity sensor <br> b) Tested and finished iOS Spatial Orientation
