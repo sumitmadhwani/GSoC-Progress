@@ -76,3 +76,4 @@ Date | Weekday | Day | Tasks Performed
 12/07/2017 | Wednesday | 66 | Linux Brightness API
 13/07/2017 | Thursday | 67 | a) Tested and finished iOS gravity sensor <br> b) Tested and finished iOS Spatial Orientation
 14/07/2017 | Friday | 68 | -
+15/07/2017 | Saturday | 69 | iOS Gyroscope Uncalibrated
