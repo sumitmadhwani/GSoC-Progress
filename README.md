@@ -75,3 +75,4 @@ Date | Weekday | Day | Tasks Performed
 11/07/2017 | Tuesday | 65 | a) Add more properties to device motion handler <br> b) Linux Brightness
 12/07/2017 | Wednesday | 66 | Linux Brightness API
 13/07/2017 | Thursday | 67 | a) Tested and finished iOS gravity sensor <br> b) Tested and finished iOS Spatial Orientation
+14/07/2017 | Friday | 68 | -
