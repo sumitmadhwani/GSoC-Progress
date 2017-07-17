@@ -77,3 +77,4 @@ Date | Weekday | Day | Tasks Performed
 13/07/2017 | Thursday | 67 | a) Tested and finished iOS gravity sensor <br> b) Tested and finished iOS Spatial Orientation
 14/07/2017 | Friday | 68 | -
 15/07/2017 | Saturday | 69 | iOS Gyroscope Uncalibrated
+16/07/2017 | Sunday | 70 | iOS Compass Uncalibrated
