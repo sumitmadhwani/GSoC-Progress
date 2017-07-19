@@ -79,4 +79,5 @@ Date | Weekday | Day | Tasks Performed
 15/07/2017 | Saturday | 69 | iOS Gyroscope Uncalibrated
 16/07/2017 | Sunday | 70 | iOS Compass Uncalibrated
 17/07/2017 | Monday | 71 | iOS Compass Uncalibrated (contd.)
-18/07/2017 | Tuesday | 72 | a) Fix iOS Gyroscope issue <br> b) Gyroscope Uncalibrated
+18/07/2017 | Tuesday | 72 | a) Fix iOS Gyroscope issue <br> b) iOS Gyroscope Uncalibrated
+19/07/2017 | Wednesday | 73 | iOS Compass Uncalibrated
