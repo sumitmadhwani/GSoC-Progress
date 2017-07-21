@@ -82,4 +82,4 @@ Date | Weekday | Day | Tasks Performed
 18/07/2017 | Tuesday | 72 | a) Fix iOS Gyroscope issue <br> b) iOS Gyroscope Uncalibrated
 19/07/2017 | Wednesday | 73 | iOS Compass Uncalibrated
 20/07/2017 | Thursday | 74 | a) Updated bridge.m to add a method to get calibrated magnetic field using reference frame <br> b) Completed iOS Compass Uncalibrated
-21/07/2017 | Friday | -
+21/07/2017 | Friday | 75 | -
