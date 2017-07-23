@@ -84,3 +84,4 @@ Date | Weekday | Day | Tasks Performed
 20/07/2017 | Thursday | 74 | a) Updated bridge.m to add a method to get calibrated magnetic field using reference frame <br> b) Completed iOS Compass Uncalibrated
 21/07/2017 | Friday | 75 | -
 22/07/2017 | Saturday | 76 | a) Design User Acceleration API <br> b) iOS User Acceleration
+23/07/2017 | Sunday | 77 | a) Android User Acceleration <br> b) Example for User Acceleration
