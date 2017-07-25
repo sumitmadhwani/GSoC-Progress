@@ -85,3 +85,4 @@ Date | Weekday | Day | Tasks Performed
 21/07/2017 | Friday | 75 | -
 22/07/2017 | Saturday | 76 | a) Design User Acceleration API <br> b) iOS User Acceleration
 23/07/2017 | Sunday | 77 | a) Android User Acceleration <br> b) Example for User Acceleration
+24/07/2017 | Monday | 78 | Fix current gyroscope crash
