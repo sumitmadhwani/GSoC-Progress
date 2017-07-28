@@ -89,3 +89,4 @@ Date | Weekday | Day | Tasks Performed
 25/07/2017 | Tuesday | 79 | Blog Post 4 for Phase II Evaluations
 26/07/2017 | Wednesday | 80 | iOS Proximity Sensor
 27/07/2017 | Thursday | 81 | -
+28/07/2017 | Friday | 82 | iOS Proximity Sensor (contd.)
