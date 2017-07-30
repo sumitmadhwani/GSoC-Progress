@@ -91,3 +91,4 @@ Date | Weekday | Day | Tasks Performed
 27/07/2017 | Thursday | 81 | -
 28/07/2017 | Friday | 82 | iOS Proximity Sensor (contd.)
 29/07/2017 | Saturday | 83 | iOS Barometer
+30/07/2017 | Sunday | 84 | -
