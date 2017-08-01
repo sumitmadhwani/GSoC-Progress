@@ -93,3 +93,4 @@ Date | Weekday | Day | Tasks Performed
 29/07/2017 | Saturday | 83 | iOS Barometer
 30/07/2017 | Sunday | 84 | -
 31/07/2017 | Monday | 85 | iOS Light Sensor
+01/07/2017 | Tuesday | 86 | OS X brightness
