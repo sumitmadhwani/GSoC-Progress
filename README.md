@@ -95,3 +95,4 @@ Date | Weekday | Day | Tasks Performed
 31/07/2017 | Monday | 85 | iOS Light Sensor
 01/07/2017 | Tuesday | 86 | OS X brightness
 02/07/2017 | Wednesday | 87 | Windows brightness
+03/07/2017 | Thursday | 88 | Windows brightness (contd.)
