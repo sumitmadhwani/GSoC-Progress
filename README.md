@@ -97,3 +97,4 @@ Date | Weekday | Day | Tasks Performed
 02/07/2017 | Wednesday | 87 | Windows brightness
 03/07/2017 | Thursday | 88 | Windows brightness (contd.)
 04/07/2017 | Friday | 89 | Windows brightness (contd.)
+05/07/2017 | Saturday | 90 | Windows brightness (contd.)
