@@ -98,3 +98,4 @@ Date | Weekday | Day | Tasks Performed
 03/07/2017 | Thursday | 88 | Windows brightness (contd.)
 04/07/2017 | Friday | 89 | Windows brightness (contd.)
 05/07/2017 | Saturday | 90 | Windows brightness (contd.)
+06/07/2017 | Sunday | 91 | iOS spell checker
