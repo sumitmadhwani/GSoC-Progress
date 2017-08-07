@@ -93,9 +93,10 @@ Date | Weekday | Day | Tasks Performed
 29/07/2017 | Saturday | 83 | iOS Barometer
 30/07/2017 | Sunday | 84 | -
 31/07/2017 | Monday | 85 | iOS Light Sensor
-01/07/2017 | Tuesday | 86 | OS X brightness
-02/07/2017 | Wednesday | 87 | Windows brightness
-03/07/2017 | Thursday | 88 | Windows brightness (contd.)
-04/07/2017 | Friday | 89 | Windows brightness (contd.)
-05/07/2017 | Saturday | 90 | Windows brightness (contd.)
-06/07/2017 | Sunday | 91 | iOS spell checker
+01/08/2017 | Tuesday | 86 | OS X brightness
+02/08/2017 | Wednesday | 87 | Windows brightness
+03/08/2017 | Thursday | 88 | Windows brightness (contd.)
+04/08/2017 | Friday | 89 | Windows brightness (contd.)
+05/08/2017 | Saturday | 90 | Windows brightness (contd.)
+06/08/2017 | Sunday | 91 | iOS spell checker
+07/08/2017 | Monday | 92 | Blog Post 5
