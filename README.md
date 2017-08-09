@@ -100,3 +100,5 @@ Date | Weekday | Day | Tasks Performed
 05/08/2017 | Saturday | 90 | Windows brightness (contd.)
 06/08/2017 | Sunday | 91 | iOS spell checker
 07/08/2017 | Monday | 92 | Blog Post 5
+08/08/2017 | Tuesday | 93 | -
+09/08/2017 | Wednesday | 94 | Fix bugs in iOS spell checker
