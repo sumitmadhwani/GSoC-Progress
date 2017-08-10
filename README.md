@@ -102,3 +102,4 @@ Date | Weekday | Day | Tasks Performed
 07/08/2017 | Monday | 92 | Blog Post 5
 08/08/2017 | Tuesday | 93 | -
 09/08/2017 | Wednesday | 94 | Fix bugs in iOS spell checker
+10/08/2017 | Thursday | 95 | -
