@@ -103,3 +103,5 @@ Date | Weekday | Day | Tasks Performed
 08/08/2017 | Tuesday | 93 | -
 09/08/2017 | Wednesday | 94 | Fix bugs in iOS spell checker
 10/08/2017 | Thursday | 95 | -
+11/08/2017 | Friday | 96 | iOS Spell Checker
+12/08/2017 | Saturday | 97 | iOS Sharing
