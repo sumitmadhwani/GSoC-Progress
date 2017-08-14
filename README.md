@@ -106,3 +106,4 @@ Date | Weekday | Day | Tasks Performed
 11/08/2017 | Friday | 96 | iOS Spell Checker
 12/08/2017 | Saturday | 97 | iOS Sharing
 13/08/2017 | Sunday | 98 | -
+14/08/2017 | Monday | 99 | iOS Sharing
