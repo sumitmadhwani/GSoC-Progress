@@ -107,3 +107,4 @@ Date | Weekday | Day | Tasks Performed
 12/08/2017 | Saturday | 97 | iOS Sharing
 13/08/2017 | Sunday | 98 | -
 14/08/2017 | Monday | 99 | iOS Sharing
+15/08/2017 | Tuesday | 100 | -
