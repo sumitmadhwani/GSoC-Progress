@@ -113,3 +113,5 @@ Date | Weekday | Day | Tasks Performed
 18/08/2017 | Friday | 103 | Push my gsoc code to seperate repo
 19/08/2017 | Saturday | 104 | Push my gsoc code to seperate repo
 20/08/2017 | Sunday | 105 | iOS Storage Path
+21/08/2017 | Monday | 106 | -
+22/08/2017 | Tuesday | 107 | Blog Post 6
