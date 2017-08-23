@@ -115,3 +115,4 @@ Date | Weekday | Day | Tasks Performed
 20/08/2017 | Sunday | 105 | iOS Storage Path
 21/08/2017 | Monday | 106 | -
 22/08/2017 | Tuesday | 107 | Blog Post 6
+23/08/2017 | Wednesday | 108 | Worked with mentor to get my prs merged
